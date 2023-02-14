@@ -8,7 +8,10 @@ Pewlett Hackard is a company preparing for a significant portion of its employee
 
 ## Results
 
-The Number of Retiring Employees by Title
+
+**The Number of Retiring Employees by Title**
+
+
 
   - We wrote a query to create a table containing the number of employees born between January 1, 1952, and December 31, 1955. The retirement_titles table below shows only the first ten rows; there was a total of 133,776.
 
@@ -21,3 +24,13 @@ The Number of Retiring Employees by Title
   - Lastly, we wrote another query to identify the number of employees by title who are about to retire. The table below shows the count by title of employees who are about to retire. The retiring_titles table only contains seven rows since the results are grouped by title.
   
    ![image](https://user-images.githubusercontent.com/117063056/218630042-992b03d5-75d5-48d0-9714-c422716622bd.png)
+
+  - After writing the various queries and modifying the first table, the retiring_titles table displays the number and type of positions the company needs to fill when employees retire.
+
+
+
+
+**The Employees Eligible for the Mentorship Program**
+
+
+
