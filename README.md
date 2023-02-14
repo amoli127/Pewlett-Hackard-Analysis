@@ -16,5 +16,5 @@ The Number of Retiring Employees by Title
 
   -  Using the first table, we created another table, removing employees who had already left the company and filtered them to remove duplicates and only account for their most recent title. The table below only shows the first ten rows. However, after applying the filters, there were only 72,458 rows. 
   
-    ![image](https://user-images.githubusercontent.com/117063056/218628746-be2de400-c7ff-470e-bf22-bf890ece4a97.png) 
+![image](https://user-images.githubusercontent.com/117063056/218628884-fcdfcb40-2c6b-426f-9706-b348247fc66b.png) 
   
