@@ -45,3 +45,16 @@ Pewlett Hackard is a company preparing for a significant portion of its employee
 ![image](https://user-images.githubusercontent.com/117063056/218635552-9d23e4b9-fa34-4b44-9249-646a2383c11f.png)
 
 
+## Summary
+
+After the analysis, we were to address the following concerns for Pewlett-Hackard company, and in this way, ensure that the company is prepared for the "silver tsunami" and that the organization does not suffer due to the number of employees that will retire.
+
+**How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+After writing the first query, we were able to identify that when the "silver tsunami" begins to take effect, 72,358 positions will need to be filled. These positions are divided into seven different titles: Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, and Manager.
+
+**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+The second query we wrote showed that the company currently has 1,549 employees ready to participate in the mentorship program; this indicates there are enough employees ready to retire who can mentor the next generation.
+
+We were also able to identify that we need additional efforts to reduce the impact of the "silver tsunami" on the organization. One of these queries would be to create a table that shows the number of positions that will need to be filled after the new generation fills the roles of the employees who retire. The second query is to identify the roles that need to be filled divided by departments.
