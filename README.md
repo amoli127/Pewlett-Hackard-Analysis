@@ -12,8 +12,9 @@ The Number of Retiring Employees by Title
 
   - We wrote a query to create a table containing the number of employees born between January 1, 1952, and December 31, 1955. The table below shows only the first ten rows; there was a total of 133,776.
 
-![image](https://user-images.githubusercontent.com/117063056/218627832-e3a1918b-d148-4ffe-a887-7935ae3ae290.png)
+    ![image](https://user-images.githubusercontent.com/117063056/218627832-e3a1918b-d148-4ffe-a887-7935ae3ae290.png)
 
   -  Using the first table, we created another table, removing employees who had already left the company and filtered them to remove duplicates and only account for their most recent title. The table below only shows the first ten rows. However, after applying the filters, there were only 72,458 rows. 
   
+    ![image](https://user-images.githubusercontent.com/117063056/218628746-be2de400-c7ff-470e-bf22-bf890ece4a97.png) 
   
