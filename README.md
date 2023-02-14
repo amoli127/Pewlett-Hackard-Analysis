@@ -20,3 +20,4 @@ The Number of Retiring Employees by Title
    
   - Lastly, we wrote another query to identify the number of employees by title who are about to retire. The table below shows the count by title of employees who are about to retire. The retiring_titles table only contains seven rows since the results are grouped by title.
   
+   ![image](https://user-images.githubusercontent.com/117063056/218630042-992b03d5-75d5-48d0-9714-c422716622bd.png)
