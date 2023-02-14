@@ -33,4 +33,15 @@ Pewlett Hackard is a company preparing for a significant portion of its employee
 **The Employees Eligible for the Mentorship Program**
 
 
+- We wrote a query to identify eligible employees for a mentorship program.
+
+- The table only includes employees born between January 1, 1965, and December 31, 1965.
+
+- The query orders the results in the table by the employee number.
+
+- The mentorship_eligibility table below shows the first ten rows. However, the query returned 1,549 rows of eligible employees. 
+
+
+![image](https://user-images.githubusercontent.com/117063056/218635552-9d23e4b9-fa34-4b44-9249-646a2383c11f.png)
+
 
